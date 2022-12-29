@@ -1,0 +1,10 @@
+map : ZM_ENTREPOT_T0MS
+
+version map : 1 ( zm )
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map zombie qui reprend de_entrepot_t0ms ...

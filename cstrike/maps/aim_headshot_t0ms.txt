@@ -1,0 +1,11 @@
+map : AIM_HEADSHOT_T0MS
+
+version map : aim_headshot version t0ms
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map qui a pour base : aim_headshot ... 
+

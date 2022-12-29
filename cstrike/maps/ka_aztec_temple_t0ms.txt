@@ -1,0 +1,10 @@
+map : KA_AZTEC_TEMPLE_T0MS
+
+version map : 1 (ka)
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map cut texture aztec, avec temple aztec ...

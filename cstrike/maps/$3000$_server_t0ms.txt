@@ -1,0 +1,10 @@
+map : $3000$_SERVER_T0MS
+
+version map : 2 ( 1 = $2000$_server_t0ms )
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map au gameplay rapide, texture serveur, base de $3000$ de kalou ...

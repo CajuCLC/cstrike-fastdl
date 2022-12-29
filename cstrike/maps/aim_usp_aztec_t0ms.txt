@@ -1,0 +1,10 @@
+map : AIM_USP_AZTEC_T0MS
+
+version map : 1
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map only usp, sur base de aim_usp, texture aztec, by t0ms

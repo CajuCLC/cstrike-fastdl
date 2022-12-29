@@ -1,0 +1,19 @@
+map : AIM_AK-COLT_CUT-ROOM_T0MS
+
+version map : aim_ak-colt
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map aim texture claire et fun, version aim_ak-colt by t0ms, sur les bases de aim_ak-colt_aztec_t0ms ...
+
+
+
+/!\ ATTENTION REGLES A RESPECTER: /!\
+Pour la salle de cut: Pas d'armes, pas de tir, vous pouvez que tuer au cut, et pas de tir d'en bas! Merci!
+
+
+/!\ IMPORTANT RULES TO BE OBSERVED: /!\
+For the room cut: No guns, no shooting, you can cut that to kill and no shot from below! Thank you!

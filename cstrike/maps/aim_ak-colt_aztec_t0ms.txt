@@ -1,0 +1,13 @@
+map : AIM_AK-COLT_AZTEC_T0MS
+
+version map : aim_ak-colt
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map aim texture aztec, version aim_ak-colt by t0ms ...
+
+
+

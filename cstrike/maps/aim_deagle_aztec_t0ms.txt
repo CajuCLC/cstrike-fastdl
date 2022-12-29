@@ -1,0 +1,10 @@
+map : AIM_DEAGLE_AZTEC_T0MS
+
+version map : 1
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map only deagle, texture aztec, by t0ms

@@ -1,0 +1,11 @@
+map : ZM_DUST2A-AZTEC_V5_T0MS
+
+version map : 5
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map dust2 textute aztec only bombe site A avec temple et bombe site B en haut !
+mode zombie !! cachette sur les toits et dessous la map , prener le teleporteur !

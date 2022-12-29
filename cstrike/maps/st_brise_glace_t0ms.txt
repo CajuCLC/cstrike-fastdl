@@ -1,0 +1,9 @@
+map : ST_BRISE_GLACE_T0MS
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map st : stupide , dont le but est de casser les vitres des adversaires pour les faires tomber et qu'il meurt ensuite, avantage tero ;) ...
+
