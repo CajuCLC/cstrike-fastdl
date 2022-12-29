@@ -1,0 +1,11 @@
+map : FY_NO_MAN_LAND_T0MS
+
+version map : 1
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map fy qui represente le no man land by t0ms
+le no man's land est une zone entre 2 camps ennemie ou se croise les tirs, une zone ou personne ne survie ! 

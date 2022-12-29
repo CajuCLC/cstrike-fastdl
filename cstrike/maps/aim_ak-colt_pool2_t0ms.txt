@@ -1,0 +1,10 @@
+map : AIM_AK-COLT_POOL2_T0MS
+
+version map : 2
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map aim texture pool, version 2 aim_ak-colt_pool by t0ms ...

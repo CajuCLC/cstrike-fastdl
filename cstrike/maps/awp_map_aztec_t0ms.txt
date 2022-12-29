@@ -1,0 +1,10 @@
+map : AWP_MAP_AZTEC_T0MS
+
+version map : 1
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map awp, version awp_map, texture aztec by t0ms ...

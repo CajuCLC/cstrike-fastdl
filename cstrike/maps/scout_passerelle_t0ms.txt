@@ -1,0 +1,10 @@
+map : SCOUT_PASSERELLE_T0MS
+
+version map : 1 ( scout )
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map scout qui reprend de_passerelle_t0ms ...

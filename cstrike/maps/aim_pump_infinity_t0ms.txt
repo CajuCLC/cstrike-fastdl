@@ -1,0 +1,10 @@
+map : AIM_PUMP_INFINITY_T0MS
+
+version map : 1
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+map fun au texture colorée, only pompe ! avec le téléporteur de l'infini ...
+

@@ -1,0 +1,11 @@
+map : GG_NO_MAN_LAND_T0MS
+
+version map : 1 (gg)
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map gg (reprend la fy) qui represente le no man land by t0ms
+le no man's land est une zone entre 2 camps ennemie ou se croise les tirs, une zone ou personne ne survie ! 

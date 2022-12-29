@@ -1,0 +1,12 @@
+map : HNS_DUST2A-AZTEC_FINAL_T0MS
+
+version map : 7
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+
+map dust2 textute aztec only bombe site A avec temple et bombe site B en haut !
+
+histoire : depuis des annees les aztecs construit la cite "t0ms" ( maps version 1 ) il l'amelioraire un peu ( version 2, 3 ), malheuresement apres l'arriver des conquistador leur cite a ete modifier en ville espagnole ( version 4, 5) , des milliers d'annee apres leur extinction, leur cite existe toujours ... de nos jours les services secret americain se sont installer dans cet vielle cite aztec espagnole pour etre cacher des terroriste et surtout les surveiller, jusqu'au jour ou ils les trouva, sauver la cité secrete "t0ms" si vous etes CT ou detruiser les installation secrete si vous etes TERRO !!! 

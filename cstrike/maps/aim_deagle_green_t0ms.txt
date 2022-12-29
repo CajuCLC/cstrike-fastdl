@@ -1,0 +1,12 @@
+map : AIM_DEAGLE_GREEN_T0MS
+
+version map : 1
+
+idée : Woodfull
+
+website : http://tomscz.free.fr
+
+
+
+
+map only deagle, texture aztec, by woodfull for t0ms

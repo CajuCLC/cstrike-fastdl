@@ -1,0 +1,11 @@
+map : JAIL_CAMP_V1_T0MS
+
+version map : 1
+
+mappeur : t0ms
+
+website : http://tomscz.free.fr
+
+idée: team QNC
+
+Bienvenue dans le camp de concentration "Tomscz" les soldats SS doivent garder les prisonniers de guerre qui tente de s'echapper de leur dortoir ! Mater cette rebelion ou échapper vous !
